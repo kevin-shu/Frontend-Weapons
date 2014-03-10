@@ -8,6 +8,7 @@
 * http://bartaz.github.io/impress.js/
 * 圖片局部圈選功能 - [imgAreaSelect](http://odyniec.net/projects/imgareaselect/examples.html)
 * Beautiful WYSIWYG editor - [Medium.js](http://jakiestfu.github.io/Medium.js/docs/)
+* https://github.com/nghuuphuoc/bootstrapvalidator
 
 
 ## CSS
@@ -30,6 +31,8 @@
 
 ## Tools:
 * http://livereload.com/
+
+
 ## 快速架站:
 
 * http://www.strikingly.com/
