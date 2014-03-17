@@ -36,5 +36,8 @@
 ## 快速架站:
 
 * http://www.strikingly.com/
-
-## [Parallex Scrolling](https://github.com/kevin-shu/Frontend-Weapons/wiki/Parallex-Scrolling)
+  
+  
+## One page:
+* [Parallex Scrolling](https://github.com/kevin-shu/Frontend-Weapons/wiki/Parallex-Scrolling)
+* [FullPage.js](https://github.com/alvarotrigo/fullPage.js)
