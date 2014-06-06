@@ -3,6 +3,11 @@
 * Totem-pole.js
 
 
+## Widget
+* Webix
+* jQuery UI
+
+
 ## Js lib
 * http://eragonj.github.io/Trip.js/#
 * http://bartaz.github.io/impress.js/
