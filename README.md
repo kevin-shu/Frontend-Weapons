@@ -16,6 +16,10 @@
 * https://github.com/nghuuphuoc/bootstrapvalidator
 
 
+## About UX
+* Loading progress - [Pace.js](http://github.hubspot.com/pace/docs/welcome/)
+
+
 ## CSS
 * http://purecss.io/base/
 * http://semantic-ui.com/
